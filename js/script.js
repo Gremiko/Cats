@@ -7,10 +7,10 @@ const nameCats = [
 
 
 const imageCats = [
-    '/img/01.png',
-    '/img/02.png',
-    '/img/03.png',
-    '/img/04.png',
+    'https://gremiko.github.io/Cats/img/01.png',
+    'https://gremiko.github.io/Cats/img/02.png',
+    'https://gremiko.github.io/Cats/img/03.png',
+    'https://gremiko.github.io/Cats/img/04.png',
 ]
 
 for (let i = 0; i < nameCats.length; i++ ) {
